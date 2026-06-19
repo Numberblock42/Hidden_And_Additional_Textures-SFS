@@ -1,4 +1,4 @@
-${\Huge{\textsf{Hidden and Additional Textures for SFS}}}$
+## Hidden and Additional Textures for SFS
 
 ${\color{blue}\textsf{[Mod Type: Texture Assets Pack]}}$
 
